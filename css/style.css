@@ -3,6 +3,18 @@
    padding: 0;
 }
 
+header{
+   background-color: white;
+}
+
+header img{
+   height: 100px;
+   opacity: 80%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
 nav{
    background-color: rgb(188, 220, 248);
    text-align: center;
@@ -34,6 +46,17 @@ body {
    background-color: rgb(241, 238, 224);
    min-height: 100vh;
    position: relative;
+}
+
+.content{
+   margin: 0rem 10rem;
+   text-align: center;
+}
+
+.content img{
+   opacity: 0.8;
+   width: 1280px;
+   height: auto;
 }
 
 footer{
