@@ -14,23 +14,34 @@ nav a{
    font-size: 1.5em;
    padding: 1rem 3rem;
    text-decoration: none;
-   color: white;
+   color: #7690ca;
 }
 
 a:hover {
    background-color: rgb(156, 201, 240);
-   color: white;
+   color: #0f1b4f;
    border-radius: 50px;
 }
 
 .active{
    background-color: rgb(186, 220, 250);
-   color: #4f2c0f;
+   color: #0f1b4f;
    border-radius: 50px;
    border: solid 2px rgb(156, 201, 240);
 }
 
 body {
-   background-color: rgb(255, 255, 255);
-   height: 100vh;
+   background-color: rgb(241, 238, 224);
+   min-height: 100vh;
+   position: relative;
+}
+
+footer{
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   height: 50px;
+   background-color: rgb(72, 79, 100);
+   color: rgb(19, 26, 48);
+   text-align: center;
 }
