@@ -1,3 +1,8 @@
+body {
+   background-color: darkolivegreen;
+   height: 100vh;
+}
+
 nav a{
    font-size: 1.5em;
    display:inline;
@@ -8,11 +13,7 @@ a:link {
    text-decoration: none;
 }
 
-a:hover > p {
+a:hover {
    background-color: black;
    color: white;
-}
-
-body {
-   background-color: darkolivegreen;
 }
