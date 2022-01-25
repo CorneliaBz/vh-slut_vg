@@ -16,5 +16,5 @@ Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/M
 Läs [wiki-sidan](https://github.com/CorneliaBz/vh-slut_vg/wiki) för mer detaljerad information kring hemsidans byggstenar.
 
 ## Credits
-Vidareutveckling: [CorneliaBz](https://github.com/CorneliaBz)
+Vidareutveckling: [CorneliaBz](https://github.com/CorneliaBz)<br>
 Original versionen: [johan-at-grit](https://github.com/johan-at-grit/)
