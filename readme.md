@@ -1,24 +1,20 @@
 # Gritty Café
 
-## Om
-Gritty Café är en exempelsite för att lära sig versionshantering med Git och Github som host.
+## Om projektet
+Gritty Café är ett café lokaliserat på Grit Academy. Uppdraget med projektet var att skapa en hemsida som lockar Grit studenter och lärare till caféet.
 
-
-## Översikt
-**Content** finns i rotmappen\
-**Bilder** finns i folder *img*\
-**Styling** finns i folder *style*
-
-## credits
-> Så nu sitter jag här i min nya bil\
-> Och lyfter min gyllene hatt\
-> Och jag vill tacka livet, jag har haft tur
-
-av Lars Demian, stjärnan och karriären\
-(OBS! Känsliga varnas för ekivok text.)
+## Verktyg
+Projektet skapades med:
+* HTML5
+* CSS3
+* Visual Studio Code version: 1.63.2
 
 ## Licens
 Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/MIT)
 
-## Författare
-[@johan-at-grit](https://github.com/johan-at-grit/)
+## För utvecklare
+Läs [wiki-sidan](https://github.com/CorneliaBz/vh-slut_vg/wiki) för mer detaljerad information kring hemsidans byggstenar.
+
+## Credits
+Vidareutveckling: [CorneliaBz](https://github.com/CorneliaBz)
+Original versionen: [johan-at-grit](https://github.com/johan-at-grit/)
